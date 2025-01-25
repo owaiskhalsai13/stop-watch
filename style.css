@@ -1,6 +1,6 @@
 h1{
     
-    
+    color: white;
     font-size: 5rem;
     text-align: center;
 }
@@ -8,4 +8,7 @@ h1{
     display: flex;
     justify-content: center;
     gap: 20px;
+}
+body{
+    background-image: url(./abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.avif);
 }
